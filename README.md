@@ -1,4 +1,4 @@
-### 🙋🏼‍️ Hi all, I'm Joseph Ko, Backend Engineer working at [![PATH](https://img.shields.io/badge/-PATH-0071C5?style=plastic)](https://about.path.how/).
+### 🙋🏼‍️ Hi all, I'm Joseph Ko, Backend Engineer working at [![PATH](https://img.shields.io/badge/-PATH-0071C5?style=plastic)](http://about.path.how/).
 ### In my free time, I enjoy playing the drums. 🥁
 
 <br>
