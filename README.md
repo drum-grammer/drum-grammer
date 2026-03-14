@@ -1,6 +1,8 @@
 ### 🙋🏻‍♂️ Hi there, I'm Joseph (고병현) Ko, Software Engineer (Manager) @ [![GS](https://img.shields.io/badge/-㈜GS-003DA5?style=plastic&logoColor=white)](https://www.gs.co.kr/)
 
-**Learn, Share, Grow** — In my free time, I enjoy playing the drums. 🥁
+**Learn, Share, Grow**
+
+— In my free time, I enjoy playing the drums. 🥁
 
 ---
 
@@ -11,17 +13,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Languages & Frameworks**
+**Languages**
 
-![Kotlin](https://img.shields.io/badge/-Kotlin+SpringBoot-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/-Go+Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python+Django-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go+Echo-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin+SpringBoot-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **AI & Others**
 
