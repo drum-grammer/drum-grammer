@@ -1,5 +1,4 @@
-### 🙋🏻‍♂️ Hi there, I'm Joseph (고병현) Ko, Software Engineer (Manager) @ [![GS](https://img.shields.io/badge/-㈜GS-003DA5?style=plastic&logoColor=white)](https://www.gs.co.kr/)
-
+### 🙋🏻‍♂️ Hi there, I'm Joseph Ko (고병현), Software Engineer @ [![52gStudio](https://img.shields.io/badge/-52gStudio-FF9900?style=plastic&logoColor=white)](https://www.52g.gs/) of [![GS](https://img.shields.io/badge/-GSHodings-2496ED?style=plastic&logoColor=white)](https://www.gs.co.kr/)
 **Learn, Share, Grow**
 
 — In my free time, I enjoy playing the drums. 🥁
